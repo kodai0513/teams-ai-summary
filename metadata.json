@@ -1,0 +1,5 @@
+{
+  "name": "AI Channel Assistant",
+  "description": "An application that uses AI to summarize channel discussions and answer user questions based on the content. It helps users quickly grasp the key topics, deadlines, and progress within a channel.",
+  "requestFramePermissions": []
+}
