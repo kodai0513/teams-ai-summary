@@ -4,7 +4,7 @@ import type { Channel } from './types';
 export const CHANNELS: Channel[] = [
   {
     id: 'class-a',
-    name: '授業A (Class A)',
+    name: '授業A (Class A) test',
     posts: [
       {
         id: 'p1',
